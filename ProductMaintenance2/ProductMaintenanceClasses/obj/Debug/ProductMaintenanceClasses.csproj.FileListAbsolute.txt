@@ -3,3 +3,9 @@ C:\Courses\CS233CSharp\Demos\Indexers\ProductMaintenance2\ProductMaintenanceClas
 C:\Courses\CS233CSharp\Demos\Indexers\ProductMaintenance2\ProductMaintenanceClasses\obj\Debug\ProductMaintenanceClasses.csprojResolveAssemblyReference.cache
 C:\Courses\CS233CSharp\Demos\Indexers\ProductMaintenance2\ProductMaintenanceClasses\obj\Debug\ProductMaintenanceClasses.dll
 C:\Courses\CS233CSharp\Demos\Indexers\ProductMaintenance2\ProductMaintenanceClasses\obj\Debug\ProductMaintenanceClasses.pdb
+C:\rogerst\CS233N\Lab6\Lab6\ProductMaintenance2\ProductMaintenanceClasses\bin\Debug\ProductMaintenanceClasses.dll
+C:\rogerst\CS233N\Lab6\Lab6\ProductMaintenance2\ProductMaintenanceClasses\bin\Debug\ProductMaintenanceClasses.pdb
+C:\rogerst\CS233N\Lab6\Lab6\ProductMaintenance2\ProductMaintenanceClasses\obj\Debug\ProductMaintenanceClasses.csprojAssemblyReference.cache
+C:\rogerst\CS233N\Lab6\Lab6\ProductMaintenance2\ProductMaintenanceClasses\obj\Debug\ProductMaintenanceClasses.csproj.CoreCompileInputs.cache
+C:\rogerst\CS233N\Lab6\Lab6\ProductMaintenance2\ProductMaintenanceClasses\obj\Debug\ProductMaintenanceClasses.dll
+C:\rogerst\CS233N\Lab6\Lab6\ProductMaintenance2\ProductMaintenanceClasses\obj\Debug\ProductMaintenanceClasses.pdb
